@@ -1,16 +1,11 @@
-# React + Vite
+# Tugas React Pertemuan Satu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pada tugas react pertemuan satu, adalah membuat sebuah landing page website perpustakaan, pada landing page menampilkan buku pilihan, buku-buku yang tersedia pada seri tertentu, team pembuat website, dan kontak.
 
-Currently, two official plugins are available:
+## Menjalankan Websitenya
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Untuk menjalankan websitenya, pastikan Anda telah memiliki `node`, setelah itu clone repositori ini, setelah Anda clone, Anda dapat menjalankan command `npm install` untuk mendapatkan depedency yang diperlukan, dan setelah itu menjalankan command `npm run dev`.
 
-## React Compiler
+## Screenshot
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![](gambar_satu.png)
