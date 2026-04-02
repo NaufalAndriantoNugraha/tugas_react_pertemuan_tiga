@@ -40,12 +40,12 @@ export default function Navbar() {
         </li>
       </ul>
       <div className="col-md-3 text-end">
-        <button type="button" className="btn btn-outline-primary me-2">
+        <Link to="/login" className="btn btn-outline-primary me-2">
           Login
-        </button>
-        <button type="button" className="btn btn-primary">
+        </Link>
+        <Link to="/signup" className="btn btn-primary">
           Sign-up
-        </button>
+        </Link>
       </div>
     </header>
   );
