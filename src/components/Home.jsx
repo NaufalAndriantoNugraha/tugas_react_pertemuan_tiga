@@ -1,3 +1,5 @@
+import BookList from "./BookList";
+
 export default function Home() {
   return (
     <div class="container col-xxl-8 px-4 py-5">
@@ -30,6 +32,7 @@ export default function Home() {
             </button>
           </div>
         </div>
+        <BookList />
       </div>
     </div>
   );
