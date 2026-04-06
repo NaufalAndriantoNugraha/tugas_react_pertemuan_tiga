@@ -1,6 +1,6 @@
-# Tugas React Pertemuan Dua
+# Tugas React Pertemuan Tiga
 
-Pada tugas react pertemuan dua, adalah melanjutkan pengembangan website pada tugas react pertemuan satu. Pada tugas ini, menambahkan react router untuk melakukan navigasi antar halaman.
+Pada tugas react pertemuan tiga, adalah melanjutkan pengembangan website pada tugas react pertemuan dua. Pada tugas ini, menambahkan direktori utils untuk menyimpan file `books.js`, dan juga menambahkan fitur untuk menambahkan buku baru.
 
 ## Menjalankan Websitenya
 
