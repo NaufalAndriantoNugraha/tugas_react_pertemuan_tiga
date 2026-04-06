@@ -34,7 +34,7 @@ export default function BookList() {
             <div class="col">
               <div class="card shadow-sm">
                 <img
-                  src="https://static.wikia.nocookie.net/starwars/images/9/9b/Path-of-destruction.jpg/revision/latest?cb=20070719033113"
+                  src="/images/path_of_destruction.png"
                   style={{ borderRadius: "0.5rem" }}
                 />
               </div>
@@ -42,7 +42,7 @@ export default function BookList() {
             <div class="col">
               <div class="card shadow-sm">
                 <img
-                  src="https://static.wikia.nocookie.net/starwars/images/1/13/RuleofTwo.jpg/revision/latest?cb=20081021130617"
+                  src="/images/rule_of_two.png"
                   style={{ borderRadius: "0.5rem" }}
                 />
               </div>
@@ -50,7 +50,7 @@ export default function BookList() {
             <div class="col">
               <div class="card shadow-sm">
                 <img
-                  src="https://static.wikia.nocookie.net/starwars/images/1/1c/Dynasty_of_Evil.jpg/revision/latest?cb=20090418194005"
+                  src="/images/dynasty_of_evil.webp"
                   style={{ borderRadius: "0.5rem" }}
                 />
               </div>
@@ -58,7 +58,7 @@ export default function BookList() {
             <div class="col">
               <div class="card shadow-sm">
                 <img
-                  src="https://static.wikia.nocookie.net/starwars/images/a/a3/AnnihilationCover.jpg/revision/latest?cb=20120601025557"
+                  src="/images/annihilation_cover.png"
                   style={{ borderRadius: "0.5rem" }}
                 />
               </div>
@@ -66,7 +66,7 @@ export default function BookList() {
             <div class="col">
               <div class="card shadow-sm">
                 <img
-                  src="https://static.wikia.nocookie.net/starwars/images/c/cd/Swtor_deceived_cover.jpg/revision/latest?cb=20100715022755"
+                  src="/images/swtor_deceived_cover.png"
                   style={{ borderRadius: "0.5rem" }}
                 />
               </div>
@@ -74,7 +74,7 @@ export default function BookList() {
             <div class="col">
               <div class="card shadow-sm">
                 <img
-                  src="https://static.wikia.nocookie.net/starwars/images/6/63/TOR-Revan.jpg/revision/latest?cb=20110728211622"
+                  src="/images/TOR_revan.png"
                   style={{ borderRadius: "0.5rem" }}
                 />
               </div>
