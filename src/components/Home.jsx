@@ -6,7 +6,7 @@ export default function Home() {
       <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
         <div class="col-10 col-sm-8 col-lg-6">
           <img
-            src="https://static.wikia.nocookie.net/starwars/images/6/63/TOR-Revan.jpg/revision/latest?cb=20110728211622"
+            src="/images/TOR_revan.png"
             class="d-block mx-lg-auto img-fluid"
             style={{ width: 250, height: 400, borderRadius: "0.5rem" }}
             loading="lazy"
